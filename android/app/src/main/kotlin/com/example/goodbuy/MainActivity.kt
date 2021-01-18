@@ -1,0 +1,6 @@
+package com.example.goodbuy
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

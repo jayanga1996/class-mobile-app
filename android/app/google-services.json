@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936763675321",
+    "firebase_url": "https://nova-physics-academy.firebaseio.com",
+    "project_id": "nova-physics-academy",
+    "storage_bucket": "nova-physics-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936763675321:android:ca9648e6770f05f4abc168",
+        "android_client_info": {
+          "package_name": "com.example.goodbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936763675321-ajqoqj1pj44jt7kop003735efmksilfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPwYdTBaqbtt2QipNsHAqDfPLTzvMU3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936763675321-ajqoqj1pj44jt7kop003735efmksilfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
